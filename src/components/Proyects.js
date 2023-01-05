@@ -16,8 +16,8 @@ export default function Proyects(){
             Get borrows of my ERC20 token $ChairCoin
           </p>
           <div class="card__footer">
-            <a href="https://chairlend.on.fleek.co/" class="btn btn-lg btn-primary">Site</a>
-            <a href="https://github.com/BANQUETOX/ChairLendApp" class="btn btn-lg btn-primary">Code</a>
+            <a href="https://chairlend.on.fleek.co/" target="_blank" class="btn btn-lg btn-primary" >Site</a>
+            <a href="https://github.com/BANQUETOX/ChairLendApp" target="_blank" class="btn btn-lg btn-primary">Code</a>
           </div>
         </div>
       </div>
